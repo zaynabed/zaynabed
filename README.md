@@ -50,6 +50,19 @@ I have experience and feel comfortable working with these:
 
 I am always looking to improve and add onto my skills. Currently working on [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/) and [React with Redux](https://www.udemy.com/course/react-redux/) courses!
 
+<br>
+
 ---
 <!-- contacts -->
+<img align="right" src="/contact.png" width="200" height="200" /> 
+
+## Contact me 📬 ##
+
+feel free to contact me on any of these platforms:
+
+[![](/email.png)](mailto:abedmohammed353@gmail.com)
+[![](/linkedin.png)](https://www.linkedin.com/in/abed-mohammed/)
+[![](/disc.png)](https://discordapp.com/users/198502421033517057)
+[![](/insta.png)](https://www.instagram.com/mohammedabedd/)
+[![](/facebook.png)](https://www.facebook.com/MohammedAbed8/)
 
