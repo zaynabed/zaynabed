@@ -1,7 +1,19 @@
-### Welcome to my github! 👋
-<img src="/hello.PNG" width="200" height="200" />
+<img align="left" src="/hello.PNG" width="200" height="200" /> 
 
-##
+# Welcome to my github! 👋 #
+
+```javascript
+const mohammed = {
+  name: 'Mohammed Abed',
+  age: 19,
+  studying: 'Software Engineering',
+  institution: 'McMaster University',
+  interests: ['coffee', 'gym', 'gaming', 'food'],
+  hasDriversLicense: false,
+};
+```
+
+---
 <!--
 
 
