@@ -62,7 +62,6 @@ feel free to contact me on any of these platforms:
 
 [![](/email.png)](mailto:abedmohammed353@gmail.com)
 [![](/linkedin.png)](https://www.linkedin.com/in/abed-mohammed/)
-[![](/disc.png)](https://discordapp.com/users/198502421033517057)
 [![](/insta.png)](https://www.instagram.com/mohammedabedd/)
 [![](/facebook.png)](https://www.facebook.com/MohammedAbed8/)
 
