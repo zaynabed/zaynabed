@@ -15,7 +15,7 @@ const mohammed = {
 ```
 ---
 <!-- what i know -->
-<img align="right" src="/readingcomfy.PNG" width="150" height="150" /> 
+<img align="right" src="/readingcomfy.PNG" width="200" height="200" /> 
 
 ## My Skills 🛠 ##
 
@@ -36,18 +36,20 @@ I have experience and feel comfortable working with these:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-
-
-
-
-
-
-
 ---
-
 <!-- currently learning -->
+<img align="left" src="/readingonbook.PNG" width="200" height="200" /> 
+
+## Currently looking to learn 📚 ##
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+I am always looking to improve and add onto my skills. Currently working on [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/) and [React with Redux](https://www.udemy.com/course/react-redux/) courses!
 
 ---
-
 <!-- contacts -->
 
