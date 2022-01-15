@@ -9,7 +9,7 @@ const mohammed = {
   age: 19,
   studying: 'Software Engineering',
   institution: 'McMaster University',
-  interests: ['coffee', 'gym', 'gaming', 'food'],
+  interests: ['coffee', 'gym', 'gaming', 'food', 'skiing'],
 };
 ```
 ---
