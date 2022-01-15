@@ -10,7 +10,6 @@ const mohammed = {
   studying: 'Software Engineering',
   institution: 'McMaster University',
   interests: ['coffee', 'gym', 'gaming', 'food'],
-  hasDriversLicense: false,
 };
 ```
 ---
