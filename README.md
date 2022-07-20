@@ -6,7 +6,7 @@
 ```javascript
 const mohammed = {
   name: 'Mohammed Abed',
-  age: 19,
+  age: 20,
   studying: 'Software Engineering',
   institution: 'McMaster University',
   interests: ['coffee', 'gym', 'gaming', 'food', 'skiing'],
