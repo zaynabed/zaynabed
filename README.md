@@ -1,7 +1,7 @@
 <!-- intro -->
 <img align="left" src="/hello.PNG" width="200" height="200" /> 
 
-# Welcome to my github! 👋 #
+<h1 align="right">👋 Welcome to my github!</h1>
 
 ```javascript
 const mohammed = {
@@ -39,7 +39,9 @@ I have experience and feel comfortable working with these:
 <!-- currently learning -->
 <img align="left" src="/readingonbook.PNG" width="200" height="200" /> 
 
-## Currently looking to learn 📚 ##
+<div align="right">
+<h2 >📚 Currently looking to learn</h2>
+
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -48,7 +50,7 @@ I have experience and feel comfortable working with these:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 I am always looking to improve and add onto my skills. Currently working on [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/) and [React with Redux](https://www.udemy.com/course/react-redux/) courses!
-
+</div>
 <br>
 
 ---
