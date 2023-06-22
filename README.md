@@ -55,8 +55,6 @@ I have also used these tools during my work but also in my university courses.
 
 My portfolio: [abedm.dev](https://www.abedm.dev/)
 
-My work: [Websnippets](https://websitesnippets.netlify.app/)
-
 Featured:
 [XPMessenger](https://xpmessenger.com/login) |
 [F1Scoreboard](https://f1scoreboard.com/) | 
@@ -65,7 +63,11 @@ Featured:
 [AbedsCountries](https://abedscountries.netlify.app/)
 
 <br>
+<br>
 
+<!-- <p align="center">
+   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=abedmohammed&theme=radical&mode=weekly"/></a>
+</p> -->
 ---
 <!-- contacts -->
 <img align="right" src="/contact.png" width="200" height="200" /> 
