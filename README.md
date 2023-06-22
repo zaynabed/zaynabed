@@ -6,9 +6,12 @@
 ```javascript
 const mohammed = {
   name: 'Mohammed Abed',
-  age: 20,
-  studying: 'Software Engineering',
-  institution: 'McMaster University',
+  age: 21,
+  studying: {
+    institution: "McMaster University",
+    degree: "Bachelors of Software Engineering",
+    year: "3rd year, 2025 graduation (Expected)"
+  },
   interests: ['coffee', 'gym', 'gaming', 'food', 'skiing'],
 };
 ```
@@ -18,36 +21,48 @@ const mohammed = {
 
 ## My Skills 🛠 ##
 
-I have experience and feel comfortable working with these:
+I use these frequently in my work and personal projects. I feel very comfortable working with these and I am always looking to expand my knowledge using them.
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+I have also used these tools during my work but also in my university courses.
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 <!-- currently learning -->
-<img align="left" src="/readingonbook.PNG" width="200" height="200" /> 
+<img align="left" src="/readingonbook.PNG" width="200" height="200"/> 
 
-## Currently looking to learn 📚 ##
+## Projects and Portfolio 💼 ##
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+My portfolio: [abedm.dev](https://www.abedm.dev/)
 
-I am always looking to improve and add onto my skills. Currently working on [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/) and [React with Redux](https://www.udemy.com/course/react-redux/) courses!
+My work: [Websnippets](https://websitesnippets.netlify.app/)
+
+Featured:
+[XPMessenger](https://xpmessenger.com/login) |
+[F1Scoreboard](https://f1scoreboard.com/) | 
+[FoodBase](https://foodbase.netlify.app/) | 
+[AbedsDictionary](https://abedsdictionary.netlify.app/) |
+[AbedsCountries](https://abedscountries.netlify.app/)
 
 <br>
 
@@ -63,5 +78,3 @@ feel free to contact me on any of these platforms:
 [![](/linkedin.png)](https://www.linkedin.com/in/abed-mohammed/)
 [![](/insta.png)](https://www.instagram.com/mohammedabedd/)
 [![](/facebook.png)](https://www.facebook.com/MohammedAbed8/)
-
-Personal Website: https://mohammedabed.netlify.app/
