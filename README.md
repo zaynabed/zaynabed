@@ -12,7 +12,7 @@ const mohammed = {
     degree: "Bachelors of Software Engineering",
     year: "3rd year, 2025 graduation (Expected)"
   },
-  interests: ['coffee', 'gym', 'gaming', 'food', 'skiing'],
+  interests: ['coffee', 'gym', 'gaming', 'food', 'skiing', 'Formula 1'],
 };
 ```
 ---
