@@ -54,7 +54,7 @@ I have also used these tools during my work but also in my university courses.
 
 ## Projects and Portfolio 💼 ##
 
-My portfolio: [abedm.dev](https://www.abedm.dev/)
+My portfolio: [abedmohammed.com](https://www.abedmohammed.com)
 
 Featured:
 [Snapwitter](https://www.snapwitter.com/) |
