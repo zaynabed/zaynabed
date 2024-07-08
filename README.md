@@ -4,8 +4,8 @@
 # Hello 👋 #
 
 ```javascript
-const mohammed = {
-  name: 'Mohammed Abed',
+const zayn = {
+  name: 'Zayn Abed',
   age: 21,
   studying: {
     institution: "McMaster University",
@@ -64,7 +64,7 @@ Tools:
 
 ## Projects and Portfolio 💼 ##
 
-My portfolio: [abedmohammed.com](https://www.abedmohammed.com)
+My portfolio: [zaynabed.com](https://www.zaynabed.com)
 
 Featured:
 [AutoMate](https://github.com/DSC-McMaster-U/Auto-ML) |
@@ -88,5 +88,5 @@ Featured:
 feel free to contact me on any of these platforms:
 
 [![](/email.png)](mailto:abedmohammed353@gmail.com)
-[![](/linkedin.png)](https://www.linkedin.com/in/abed-mohammed/)
-[![](/insta.png)](https://www.instagram.com/mohammedabedd/)
+[![](/linkedin.png)](https://www.linkedin.com/in/zayn-abed/)
+[![](/insta.png)](https://www.instagram.com/zy.abed/)
