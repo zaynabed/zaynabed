@@ -14,7 +14,7 @@ const zayn = {
     degree: "Software Engineering",
     year: "4th year, 2025 graduation"
   },
-  interests: ['Brazilian jiu-jitsu', 'Gym', 'Yoga', 'Skiing'],
+  interests: ['Gym', 'Yoga', 'Skiing', 'Brazilian jiu-jitsu'],
   website: "zaynabed.com"
 };
 ```
