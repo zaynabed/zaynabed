@@ -3,7 +3,7 @@
   Welcome to my github 👋
 </h1>
 
-<img align="left" src="/hello.PNG" width="200" height="200" /> 
+<img align="left" src="/sticker.png" width="200" height="200" /> 
 
 ```javascript
 const zayn = {
