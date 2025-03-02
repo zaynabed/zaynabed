@@ -5,8 +5,8 @@
 
 <img align="left" src="/sticker.png" width="200" height="200" /> 
 
-```javascript
-const zayn = {
+```typescript
+const zayn<TSoftwareDeveloper> = {
   name: 'Zayn Abed',
   age: 22,
   studying: {
