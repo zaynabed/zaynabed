@@ -18,3 +18,9 @@ const zayn = {
   website: "zaynabed.com"
 };
 ```
+
+---
+
+Checkout my portfolio at [zaynabed.com](https://www.zaynabed.com/) 🕵
+
+[![CleanShot 2025-03-01 at 16 15 07](https://github.com/user-attachments/assets/ccda45f0-6dec-43af-9cfa-2ea36c400cc3)](https://www.zaynabed.com/)
