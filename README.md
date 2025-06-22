@@ -8,14 +8,15 @@
 ```typescript
 const zayn<TSoftwareDeveloper> = {
   name: 'Zayn Abed',
-  age: 22,
-  studying: {
-    institution: "McMaster University",
-    degree: "Software Engineering",
-    year: "4th year, 2025 graduation"
+  age: 23,
+  role: 'Frontend Software Engineer at Roblox'
+  education: {
+    institution: 'McMaster University',
+    degree: 'B.Eng in Software Engineering',
+    year: 'Graduated 2025'
   },
   interests: ['Gym', 'Yoga', 'Skiing', 'Brazilian jiu-jitsu'],
-  website: "zaynabed.com"
+  website: 'zaynabed.com'
 };
 ```
 
