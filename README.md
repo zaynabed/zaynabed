@@ -9,7 +9,7 @@
 const zayn<TSoftwareDeveloper> = {
   name: 'Zayn Abed',
   age: 23,
-  role: 'Frontend Software Engineer at Roblox'
+  role: 'Frontend Software Engineer at Roblox',
   education: {
     institution: 'McMaster University',
     degree: 'B.Eng in Software Engineering',
